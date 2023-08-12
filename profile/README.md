@@ -24,24 +24,7 @@
 ```sh
 #/bin/sh
 
-git clone git@github.com:synrc/ca
-git clone git@github.com:synrc/chat
-git clone git@github.com:synrc/synrc.com
-git clone git@github.com:synrc/n2o.dev
-git clone git@github.com:synrc/bpe
-git clone git@github.com:synrc/exe
-git clone git@github.com:synrc/form
-git clone git@github.com:synrc/kvs
-git clone git@github.com:synrc/ldap
-git clone git@github.com:synrc/mad
-git clone git@github.com:synrc/mail
-git clone git@github.com:synrc/mq
-git clone git@github.com:synrc/n2o
-git clone git@github.com:synrc/nitro
-git clone git@github.com:synrc/ns
-git clone git@github.com:synrc/rpc
-git clone git@github.com:synrc/review
-git clone git@github.com:synrc/sample
+git clone git@github.com:synrc/{ca,cha,synrc.com,n2o.dev,bpe,form,kvs,ldap,mail,mq,n2o,nitro,ns,rpc,review,sample}
 ```
 
 <p align="center">
