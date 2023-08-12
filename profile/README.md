@@ -24,7 +24,7 @@
 ```sh
 #/bin/sh
 
-git clone git@github.com:synrc/{ca,cha,synrc.com,n2o.dev,bpe,form,kvs,ldap,mail,mq,n2o,nitro,ns,rpc,review,sample}
+git clone git@github.com:synrc/{ca,chat,bpe,form,kvs,ldap,mail,mq,n2o,nitro,ns,rpc,review,sample}
 ```
 
 <p align="center">
