@@ -31,7 +31,7 @@
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на базі ISO 20922, X.509, CMS, PKCS та ASN.1.
 
-### Продукти, що формують ядро ISO 42010 впроваджені в МВС і ПриватБанк
+### Продукти, що формують ядро ISO 42010, впроваджені в МВС і ПриватБанк
 
 - **[bpe](https://github.com/synrc/bpe)** — BPMN-сервер (ISO 19510).
 - **[nitro](https://github.com/synrc/nitro)** — Erlang/Elixir структурний шаблонізатор.
