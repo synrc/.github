@@ -66,3 +66,5 @@ done
 <a href="https://n2o.dev/ua/">Документації</a> —
 <a href="https://n2o.dev/ua/pro/">Сертифікації</a>
 </p>
+
+<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2005—2026 Максим Сохацький</a></p>
