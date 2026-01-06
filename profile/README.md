@@ -39,7 +39,7 @@
 - **[n2o](https://github.com/synrc/n2o)** — Веб-фреймворк для MQTT і WebSocket трактів.
 - **[kvs](https://github.com/synrc/kvs)** — Абстракція над KV B-Tree сховищами.
 - **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації.
-- **[skynet64](https://github.com/synrc/bpe)** — MQTT-сервер (ISO 20922), аудитований автором Агди для NYNJA.
+- **[skynet64](https://github.com/skynet64)** — MQTT-сервер (ISO 20922), аудитований автором Агди для NYNJA.
 
 ### Авторські твори
 
