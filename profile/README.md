@@ -32,7 +32,7 @@
 ### Продукти, що формують ядро ISO 42010, впроваджені в МВС і ПриватБанк
 
 - **[bpe](https://github.com/synrc/bpe)** — BPMN-сервер (ISO 19510).
-- **[nitro](https://github.com/synrc/nitro)** — Erlang/Elixir структурний шаблонізатор.
+- **[nitro](https://github.com/synrc/nitro)** — Erlang/Elixir структурний HTML шаблонізатор для SPA/PWA додатків.
 - **[form](https://github.com/synrc/form)** — Бібліотека форм і валідацій X-Forms.
 - **[n2o](https://github.com/synrc/n2o)** — Веб-фреймворк для MQTT і WebSocket трактів.
 - **[kvs](https://github.com/synrc/kvs)** — Абстракція над KV B-Tree сховищами.
