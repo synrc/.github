@@ -21,7 +21,7 @@
 - **Безпека понад усе** — фокус на end-to-end шифруванні, постквантовій стійкості, перевірці сертифікатів та сучасних алгоритмах.
 - **Модульність та незалежність** — наші імплементації (CA, LDAP, NS, CHAT) можуть використовуватися окремо або як повний стек.
 
-### Криптографічні продукти
+## Криптографічні продукти
 
 - **[asn1](https://github.com/synrc/asn1)** — ASN.1 компілятор (ISO 8824).
 - **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
@@ -29,7 +29,7 @@
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
 
-### Продукти, що формують ядро ISO 42010, впроваджені в МВС і ПриватБанк
+## Продукти, впроваджені в МВС і ПриватБанк
 
 - **[bpe](https://github.com/synrc/bpe)** — BPMN-сервер (ISO 19510).
 - **[nitro](https://github.com/synrc/nitro)** — Erlang/Elixir структурний HTML шаблонізатор для SPA/PWA додатків.
@@ -39,7 +39,7 @@
 - **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації для Swift, JavaScript, Java.
 - **[mqtt](https://github.com/skynet64)** — MQTT-сервер (ISO 20922), аудитований автором Агди для NYNJA.
 
-### Авторські твори
+## Авторські твори
 
 - **[crm](https://github.com/erpuno/crm)** — МІА:Документообіг
 - **[ft](https://github.com/erpuno/ft)** — FormalTalk: мова програмування для МІА:Документообіг
