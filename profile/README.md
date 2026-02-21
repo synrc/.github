@@ -2,6 +2,22 @@
 
 Ми — українська open-source організація, що спеціалізується на розробці високонадійних, відмовостійких розподілених систем на базі Erlang/OTP (BEAM). Наші проєкти охоплюють захищені комунікації (чат-месенджери та PKI), веб-фреймворки, управління бізнес-процесами (BPMN), розподілені сховища, мережеві протоколи та формальні методи верифікації. Все побудовано на суворій відповідності міжнародним та українським стандартам (ASN.1, X.509, CMS/S-MIME, LDAP, DNS, MQTT, BPMN, ДСТУ 4145).
 
+## Криптографічні продукти
+
+- **[asn1](https://github.com/synrc/asn1)** — ASN.1 компілятор (ISO 8824).
+- **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
+- **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
+- **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
+- **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
+  
+## Основні продукти
+
+* **[mail](https://github.com/erpuno/mail)** — Мінімальний Чат Месенжер Сохацького v0 на WebSocket з текстовим і TCP з ASN.1 протоколами (демо).
+* **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
+* **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
+* **[chat](https://github.com/zencrypted/chat)** — TLS/QUIC Сервер Чат Месенжера Сохацького v2 на Elixir з ASN.1 протоколом і PKI сервісами (розробка).
+* **[mqtt](https://github.com/erpuno/mqtt)** — Глобальний Чат Месенжер Сохацького v3 на MQTT з ASN.1/BERT протоколами (продакшин).
+
 ## Продукти, впроваджені в МВС і ПриватБанк
 
 - **[bpe](https://github.com/synrc/bpe)** — BPMN-сервер (ISO 19510).
