@@ -23,7 +23,7 @@
 - **[nitro](https://github.com/synrc/nitro)** — Erlang/Elixir структурний HTML шаблонізатор для SPA/PWA додатків.
 - **[form](https://github.com/synrc/form)** — Бібліотека форм і валідацій X-Forms.
 - **[n2o](https://github.com/synrc/n2o)** — Nitrogen Веб-фреймворк для MQTT і WebSocket трактів.
-- **[kvs](https://github.com/synrc/kvs)** — Абстракція над KV B-Tree сховищами.
+- **[kvs](https://github.com/synrc/kvs)** — Абстракція над KV LSM-Tree сховищами.
 - **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації для Swift, JavaScript, Java.
 - **[mqtt](https://github.com/skynet64)** — MQTT-сервер (ISO 20922), аудитований автором Агди для NYNJA.
 
