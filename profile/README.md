@@ -12,10 +12,10 @@
   
 ## Основні продукти
 
-* **[mail](https://github.com/erpuno/mail)** — Мінімальний Чат Месенжер Сохацького v0 на WebSocket з текстовим і TCP з ASN.1 протоколами (демо).
+* **[mail](https://github.com/zencrypted/mail)** — Мінімальний Чат Месенжер Сохацького v0 на WebSocket з текстовим і TCP з ASN.1 протоколами (демо).
 * **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
 * **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
-* **[mqtt](https://github.com/erpuno/mqtt)** — Глобальний Чат Месенжер Сохацького v3 на MQTT з ASN.1/BERT протоколами (продакшин).
+* **[acc](https://github.com/zencrypted/acc)** — Облікова система фінінсів, кадрів, бухгалтерії і ТМЦ для macOS (атестація).
 
 ## Продукти, впроваджені в МВС і ПриватБанк
 
