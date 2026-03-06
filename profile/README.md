@@ -14,7 +14,7 @@
 * **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького згідно Наказу №40 МО (демо).
 * **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
 * **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
-* **[acc](https://github.com/zencrypted/acc)** — Облікова система фінансів, кадрів, бухгалтерії і ТМЦ для macOS (атестація).
+* **[acc](https://github.com/zencrypted/acc)** — Облікова система фінансів Сохацького, кадрів, бухгалтерії і ТМЦ для macOS (атестація).
 
 ## Продукти, впроваджені в МВС і ПриватБанк
 
