@@ -26,8 +26,8 @@
 
 ## Інші інфраструктурно-утворюючі продукти
 
-- **[sigma](https://github.com/synrc/sigma)** — Алгебраїчна чиста функціональна мова програмування Sigma (Idris).
-- **[phi](https://github.com/synrc/phi)** — Алгебраїчна чиста функціональна мова програмування Phi (PureScript).
+- **[sigma](https://github.com/synrc/sigma)** — Idris-подібна мова з залежними типами на Elixir для Erlang/OTP.
+- **[phi](https://github.com/synrc/phi)** — PureScript-подібна мова з системою Гіндлі-Мілнера на Elixir для Erlang/OTP.
 - **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації для Swift, JavaScript, Java.
 - **[mqtt](https://github.com/skynet64)** — MQTT-сервер (ISO 20922), аудитований автором Агди для NYNJA.
 - **[asn1](https://github.com/synrc/asn1)** — ASN.1 компілятор (ISO 8824).
