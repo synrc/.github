@@ -26,7 +26,7 @@
 
 ## Інші інфраструктурно-утворюючі продукти
 
-- **[christine](https://github.com/groupoid/frank)** — Miranda-подібна мова з залежними типами і індукцією на Elixir для Erlang/OTP.
+- **[frank](https://github.com/groupoid/frank)** — Miranda-подібна мова з залежними типами і індукцією на Elixir для Erlang/OTP.
 - **[sigma](https://github.com/synrc/sigma)** — Idris-подібна мова з залежними типами на Elixir для Erlang/OTP.
 - **[phi](https://github.com/synrc/phi)** — PureScript-подібна мова з системою Гіндлі-Мілнера на Elixir для Erlang/OTP.
 - **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації для Swift, JavaScript, Java.
