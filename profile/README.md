@@ -11,7 +11,7 @@ Acro: Sokhatsky Network Research Center
 - **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1 v2 і v3.
   
-## Основні продукти
+## Продукти користувача
 
 * **[acc](https://github.com/zencrypted/acc)** — Облікова система фінансів Сохацького, кадрів, бухгалтерії і ТМЦ для macOS (атестація).
 * **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького v3 протоколу згідно Наказу №40 МО (демо).
