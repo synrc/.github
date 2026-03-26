@@ -44,8 +44,8 @@
 
 🇺🇦 Зроблено з фокусом на телекомунікаційні стандарти.
 
-<p>Synrc Research Center заснувала Groupoid Infinity для дослідження формальних мов та середовищ.
-   Ми використовуємо <a href="https://github.com/groupoid">AXIO.PRO</a> для опису типових специфікацій,
+<p>Synrc Research Center заснувала <a href="https://github.com/groupoid">Groupoid Infinity</a> для дослідження формальних мов та середовищ.
+   Ми використовуємо <a href="https://axio.groupoid.space">AXIO/1</a> для опису типових специфікацій,
    протоколів та інтерфейсів. Також Groupoid Infinity проводить дослідження в області
    гомотопічної теорії типів та формалізації математики.</p>
 
