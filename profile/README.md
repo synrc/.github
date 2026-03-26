@@ -7,8 +7,8 @@ Acro: Sokhatsky Network Research Center
 ## Криптографічні продукти
 
 - **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
-- **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
+- **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1 v2 і v3.
   
 ## Основні продукти
