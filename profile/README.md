@@ -7,14 +7,14 @@
 - **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
 - **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
-- **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1.
+- **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1 v2 і v3.
   
 ## Основні продукти
 
-* **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького згідно Наказу №40 МО (демо).
-* **[message](https://github.com/zencrypted/message)** — Легкий UDP Мультікаст Wi-Fi Чат Месенжер Сохацького v1 на SwiftUI для macOS і iOS (демо).
-* **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою v1 і v2 протоколів на SwiftUI для iOS (атестація).
 * **[acc](https://github.com/zencrypted/acc)** — Облікова система фінансів Сохацького, кадрів, бухгалтерії і ТМЦ для macOS (атестація).
+* **[mail](https://github.com/zencrypted/mail)** — Документально-процесуальний документообіг Сохацького v3 протоколу згідно Наказу №40 МО (демо).
+* **[message](https://github.com/zencrypted/message)** — Чат Месенжер Сохацького з підтримкою v2 протоколу на SwiftUI для macOS і iOS (демо).
+* **[x509](https://github.com/zencrypted/x509)** — Чат Месенжер Сохацького з підтримкою UDP Мультікаст v1 протоколу на SwiftUI для iOS (атестація).
 
 ## Продукти, впроваджені в МВС і ПриватБанк
 
