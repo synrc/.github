@@ -26,7 +26,7 @@
 
 ## Інші інфраструктурно-утворюючі продукти
 
-- **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації для Swift, JavaScript, Java.
+- **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації (Swift, JavaScript, Java) для NYNJA.
 - **[mqtt](https://github.com/skynet64)** — MQTT-сервер (ISO 20922), аудитований автором Агди для NYNJA.
 - **[asn1](https://github.com/synrc/asn1)** — ASN.1 компілятор (ISO 8824).
 - **[protocol](https://github.com/synrc/protocol)** — Протокол Месанжера Сохацького
