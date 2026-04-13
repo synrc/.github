@@ -20,7 +20,7 @@ Acro: Sokhatsky Network Research Center
 
 ## Продукти, впроваджені в МВС і ПриватБанк
 
-- **[bpe](https://github.com/synrc/bpe)** — BPMN-сервер (ISO 19510).
+- **[bpmn](https://github.com/synrc/bpmn)** — BPMN-сервер (ISO 19510).
 - **[nitro](https://github.com/synrc/nitro)** — Erlang/Elixir структурний HTML шаблонізатор для SPA/PWA додатків.
 - **[form](https://github.com/synrc/form)** — Бібліотека форм і валідацій X-Forms.
 - **[n2o](https://github.com/synrc/n2o)** — Nitrogen Веб-фреймворк для MQTT і WebSocket трактів.
