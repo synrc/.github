@@ -61,4 +61,4 @@ Acro: Sokhatsky Network Research Center
 <a href="https://n2o.dev/ua/pro/">Сертифікації</a>
 </p>
 
-<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2026 ТОВ "Криптографічні Телесистеми"</a></p>
+<p align="center"><a href="https://5ht.co/license/">Copyright</a> &copy; 2026 ТОВ "Криптографічні Телесистеми" (ЄДРПО 46226772)</a></p>
