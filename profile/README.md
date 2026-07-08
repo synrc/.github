@@ -29,6 +29,7 @@
 - **[rpc](https://github.com/synrc/rpc)** — Бібліотека генераторів BERT/ETF Erlang/OTP серіалізації (Swift, JavaScript, Java) для NYNJA.
 - **[mqtt](https://github.com/skynet64)** — MQTT-сервер (ISO 20922), аудитований автором Агди для NYNJA.
 - **[asn1](https://github.com/synrc/asn1)** — ASN.1 компілятор (ISO 8824).
+- **[cd](https://github.com/erpuno/cd)** — Кластер компанії для відтворюваності в Kind середовищі.
 - **[protocol](https://github.com/synrc/protocol)** — Протокол Месанжера Сохацького
 
 ### Місія
