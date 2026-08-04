@@ -4,6 +4,7 @@
 
 ## Криптографічні продукти
 
+- **[au](https://github.com/synrc/au)** — Доказові логи на Меркл деревах з шифруванням (IETF RFC 6962).
 - **[ns](https://github.com/synrc/ns)** — DNS-сервер (IETF RFC 1034, 1035, DNSSEC).
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
 - **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
