@@ -9,6 +9,7 @@
 - **[ca](https://github.com/synrc/ca)** — Certificate Authority з підтримкою ДСТУ 4145, X.509, PKCS#10, OCSP.
 - **[ldap](https://github.com/synrc/ldap)** — LDAPv3-директорія (IETF RFC 4510–4519 та ін.).
 - **[chat](https://github.com/synrc/chat)** — Безпечний месенджер на X.509, CMS, PKCS та ASN.1 v2 і v3.
+- **[cm](https://github.com/synrc/cm)** — NIST 53 CMDB.
   
 ## Продукти користувача
 
